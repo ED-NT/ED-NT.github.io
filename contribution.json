@@ -1,25 +1,25 @@
 {
 	"eula": "",
-	"vendor": "Nikolaj Kappler",
+	"vendor": "Niko Tunjic",
 	"license": "",
 	"id": "nkappler.sankeytreechart",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"name": "Sankey Tree Chart",
 	"newInstancePrefix": "SankeyTreeChart",
 	"description": "A Proportional Tree Flow Chart",
-	"icon": "https://github.com/SAC-Custom-Widgets/SankeyTreeChart/blob/87e7e69731f9adb58646a351bd91de10a86ad3bb/docs/icon.png",
+	"icon": "https://ed-nt.github.io/icon.png",
 	"webcomponents": [
 		{
 			"kind": "main",
 			"tag": "sdk-stc",
-			"url": "https://raw.githubusercontent.com/SAC-Custom-Widgets/SankeyTreeChart/main/releases/0.1.0/main-webcomponent.js",
+			"url": "https://ed-nt.github.io/main-webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "sdk-stc-aps",
-			"url": "https://raw.githubusercontent.com/SAC-Custom-Widgets/SankeyTreeChart/main/releases/0.1.0/styling-webcomponent.js",
+			"url": "https://ed-nt.github.io/styling-webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
